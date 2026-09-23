@@ -20,3 +20,4 @@ FA 4 in KHub
 [SG2 Act 2](https://github.com/vdbobila/CS3-Respository/blob/main/q1/q1_sg2_a2.md)
 
 [Car Sample Code](https://github.com/vdbobila/CS3-Respository/blob/main/q1/q1_mycar_arayat_bobila.py)
+[Tusoktusok Sample Code](https://github.com/vdbobila/CS3-Respository/blob/main/q1/q1_tusoktusok_arayat_bobila.py)
